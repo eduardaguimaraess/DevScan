@@ -185,3 +185,24 @@ Total Checks: 4
 
 This project is licensed under the MIT License.
 ``
+# 📦 Required Libraries
+
+DevScan uses the following Python libraries:
+
+- requests
+- beautifulsoup4
+- colorama
+
+You can install all dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install manually:
+
+```bash
+pip install requests
+pip install beautifulsoup4
+pip install colorama
+```

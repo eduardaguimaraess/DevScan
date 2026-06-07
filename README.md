@@ -185,6 +185,7 @@ Total Checks: 4
 
 This project is licensed under the MIT License.
 ``
+---
 # 📦 Required Libraries
 
 DevScan uses the following Python libraries:

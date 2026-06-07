@@ -184,7 +184,7 @@ Total Checks: 4
 # 📜 License
 
 This project is licensed under the MIT License.
-``
+
 ---
 # 📦 Required Libraries
 
